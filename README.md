@@ -16,7 +16,7 @@ viewers, with some platforms already experiencing a 46% increase in consumption 
 viewers seek fresh content. With innovations and advanced transformations, which will enable the 
 customers to access everything they want in a single space, OTT platforms across the world are expected 
 to increasingly attract subscribers on a concurrent basis. 
-Objective 
+# Objective 
 ShowTime is an OTT service provider and offers a wide variety of content (movies, web shows, etc.) for its 
 users. They want to determine the driver variables for first-day content viewership so that they can take 
 necessary measures to improve the viewership of the content on their platform. Some of the reasons for 
